@@ -152,20 +152,43 @@ As the player's score increases:
 
 ---
 
-# 📸 Project Demonstration
+# 📸 Screenshots
 
-Game screenshots and gameplay recordings can be added in the future.
+## Home Screen
 
-Suggested screenshots:
+![Home Screen](screenshots/Home_Screen.jpeg)
 
-```
-screenshots/
-├── home-screen.png
-├── gameplay.png
-├── shield.png
-├── explosion.png
-└── game-over.png
-```
+---
+
+## Gameplay
+
+> Gameplay video is available in the repository.
+
+📹 `screenshots/Gameplay.mp4`
+
+---
+
+## Shield Pickup
+
+![Shield](screenshots/Shield.jpeg)
+
+---
+
+## Explosion Effect
+
+![Explosion](screenshots/Explosion.jpeg)
+
+---
+
+## Game Over
+
+![Game Over](screenshots/Game_Over.jpeg)
+
+---
+
+## Application Icon
+
+![App Icon](screenshots/Space_Escape_Runner.jpeg)
 
 ---
 
